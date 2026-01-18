@@ -37,7 +37,7 @@
 
 1. **Клонируйте репозиторий или скачайте файлы:**
    ```bash
-   git clone https://github.com/ваш-репозиторий/lms-framework.git
+   [git clone https://github.com/ваш-репозиторий/lms-framework.git](https://github.com/dmbingo/spo.git)
    cd lms-framework
    ```
 
